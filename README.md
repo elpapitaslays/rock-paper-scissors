@@ -6,4 +6,5 @@ Some things about it:
 - YOU MUST, put the inputs as exactly as they are in the code (scissors, paper or rock) (I know there's lower() function, but I'm tired and don't want to correct it)
 
 Enjoy it
-https://andygrunwald.com/images/posts/playing-rock-paper-scissors-with-500-people/rock-paper-scissors-game-rules.png
+
+<img src="https://andygrunwald.com/images/posts/playing-rock-paper-scissors-with-500-people/rock-paper-scissors-game-rules.png">
